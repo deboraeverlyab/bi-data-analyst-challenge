@@ -1,7 +1,7 @@
 # Teste Analista de BI/Dados
 
 Relatório feito no Google Colab: [relatorio.ipynb](https://colab.research.google.com/drive/1_j8MBhhYwuL3vuyVpbJYmmmwUbMCgJzw?usp=sharing)  
-(O arquivo `relatorio.ipynb` está disponível na raiz deste repositório)
+(O arquivo [`relatorio.ipynb`](./relatorio.ipynb) está disponível na raiz deste repositório)
 
 
 Este projeto consiste em um teste dividido em quatro partes, que juntas demonstram um fluxo completo de análise de dados. As três primeiras etapas concentram-se na avaliação da performance de campanhas digitais, abrangendo a extração, o tratamento, a análise e a visualização dos dados. A última etapa inclui integrações externas que enriquecem o teste.
@@ -51,3 +51,10 @@ Principais insights identificados a partir dos dados.
 
 Arquivos relacionados:
 - `cotacao_dolar_ultimos_7_dias.csv`
+
+
+
+## 📧 Contato
+
+Débora Everly  
+[LinkedIn](https://www.linkedin.com/in/debora-everly/)
