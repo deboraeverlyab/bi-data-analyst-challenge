@@ -20,8 +20,9 @@ Este projeto consiste em um teste dividido em quatro partes, que juntas demonstr
 - Atualização da planilha original com aba "Dados Tratados".
 
 Arquivos relacionados:
-- https://docs.google.com/spreadsheets/d/1YytDjZsIXBTg0ceoXoKq9C8-BMPNOKopZbywCuZSzRY/edit?usp=sharing
+- [sheets](https://docs.google.com/spreadsheets/d/1YytDjZsIXBTg0ceoXoKq9C8-BMPNOKopZbywCuZSzRY/edit?usp=sharing)  
 - `planilha_processada_da_google_sheets.csv`
+- [Looker](https://lookerstudio.google.com/reporting/b9e32f36-519e-41f1-84de-5196bddc4713)
 
 ---
 
